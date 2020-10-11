@@ -1,0 +1,31 @@
+{
+  "name": "lorem-ipsum-generator",
+  "version": "1.0.1",
+  "description": "A lorem ipsum generator",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brijesh-wawdhane/lorem-ipsum-generator.git"
+  },
+  "keywords": [
+    "lorem ipsum",
+    "text",
+    "dummy text"
+  ],
+  "author": "Brijesh Wawdhane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brijesh-wawdhane/lorem-ipsum-generator/issues"
+  },
+  "homepage": "https://github.com/brijesh-wawdhane/lorem-ipsum-generator",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
